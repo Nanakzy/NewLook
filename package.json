@@ -35,4 +35,10 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "eslint-plugin-jest": "^28.10.0"
   }
+  "homepage": "https://nanakzy.github.io/newlook-app",
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+  }
 }
+
