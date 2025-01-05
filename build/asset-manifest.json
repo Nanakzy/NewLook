@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newlook-app/static/css/main.c774e409.css",
+    "main.js": "/newlook-app/static/js/main.c2aa47b7.js",
+    "index.html": "/newlook-app/index.html",
+    "main.c774e409.css.map": "/newlook-app/static/css/main.c774e409.css.map",
+    "main.c2aa47b7.js.map": "/newlook-app/static/js/main.c2aa47b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c774e409.css",
+    "static/js/main.c2aa47b7.js"
+  ]
+}
